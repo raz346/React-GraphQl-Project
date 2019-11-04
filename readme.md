@@ -6,4 +6,4 @@ To Start
 
 2. To run in dev environment use npm run dev 
 
-3. deploy using heroku
+3. to be deployed using heroku

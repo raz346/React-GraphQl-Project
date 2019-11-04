@@ -1,4 +1,4 @@
-# e-commerce app using Reactt.js and Apollo client as frontend stack and GraphQL and Prisma as backend stack
+# e-commerce app using React.js and Apollo client as frontend stack and GraphQL and Prisma as backend stack
 
 To Start
 

@@ -2,7 +2,7 @@
 
 To Start
 
-1. Cd to front end and run npm install.
+1. Cd to frontend and run npm install.
 
 2. To run in dev environment use npm run dev 
 
